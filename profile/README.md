@@ -10,14 +10,6 @@ MEENERVA builds a **digital operating system** for venture building: a unified, 
 
 ---
 
-### Core Engineering Stack
-
-- **Identity & Security:** Keycloak (SSO / OIDC / MFA), Stalwart Mail, Traefik
-- **Core Infrastructure:** Docker Compose, multi-node cloud VPS, PostgreSQL, Redis, n8n automation
-- **Product Stack:** NestJS, TypeScript, Go, Dart / Flutter, Nuxt.js, Nextjs
-
----
-
 ### Repository Architecture & Standards
 
 To keep each venture isolated, auditable, and easy to spin off independently, our repositories follow a consistent naming convention:
